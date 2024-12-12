@@ -1,6 +1,6 @@
 # Landing Page Project HVAC
 
-
+![Theme setting](./screencapture.png)
 **Status:** _Work in Progress_
 
 I haven’t finished this landing page yet! I'm currently resolving some layout issues and working on final touches to complete the design.
